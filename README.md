@@ -1,5 +1,5 @@
 <h2 align="center">Greetings, fellow adventurer. The name is Ahmed, more known as InEdited or Djoser.</h2>
-<h3 align="center">I'm a passionate developer with emphasis on graphics programming, game and game engine development and VR/AR.</h3>
+<h3 align="center">I'm a passionate developer with emphasis on graphics programming, game/game engine development and VR/AR.</h3>
 
 - 🔭 I’m currently working on Evol, a C game engine using vulkan and a bunch of other indie games in my free time.
 
