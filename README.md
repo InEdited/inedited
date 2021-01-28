@@ -11,6 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inedited&count_private=true&show_icons=true&locale=en&theme=dracula" alt="InEdited's Stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inedited&theme=dracula&layout=compact&hide=javascript" alt="InEdited's most used languages" /></p>
-<p>&nbsp;<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=alahmadyalaa&cover_image=true&theme=default" alt="InEdited's most used languages" /></p>
 
-<p>I have a weird music taste, I know!</p>
